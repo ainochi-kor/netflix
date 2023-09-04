@@ -1,12 +1,12 @@
 넷플릭스 만들기.
 
-
 - next.js
-- tailwindcss 
+- tailwindcss
 - next-auth
 - react-hook-form
 
-
 - Prisma
-- MongoDB, 
+- MongoDB,
 - Vercel
+
+> npx prisma db push
